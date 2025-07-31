@@ -48,5 +48,3 @@
 - **Face Mask Detector**
   - Developed in Python, OpenCV, TensorFlow in a Docker container.
 
-## Seeking Opportunities
-I'm a dedicated computer vision and machine learning engineer, open to consulting and collaborative projects. My focus areas include high-performance machine learning inference, TensorRT, C++ API, and Python API. Let's connect and explore how we can innovate together!
